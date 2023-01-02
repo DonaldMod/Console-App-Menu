@@ -1,0 +1,14 @@
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Diploma in Information Technology\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\bin\Debug\netcoreapp3.1\Menu_At_A Restaurant.exe
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Diploma in Information Technology\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\bin\Debug\netcoreapp3.1\Menu_At_A Restaurant.deps.json
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Diploma in Information Technology\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\bin\Debug\netcoreapp3.1\Menu_At_A Restaurant.runtimeconfig.json
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Diploma in Information Technology\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\bin\Debug\netcoreapp3.1\Menu_At_A Restaurant.runtimeconfig.dev.json
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Diploma in Information Technology\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\bin\Debug\netcoreapp3.1\Menu_At_A Restaurant.dll
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Diploma in Information Technology\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\bin\Debug\netcoreapp3.1\Menu_At_A Restaurant.pdb
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Diploma in Information Technology\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\obj\Debug\netcoreapp3.1\Menu_At_A Restaurant.csproj.AssemblyReference.cache
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Diploma in Information Technology\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\obj\Debug\netcoreapp3.1\Menu_At_A Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Diploma in Information Technology\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\obj\Debug\netcoreapp3.1\Menu_At_A Restaurant.AssemblyInfoInputs.cache
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Diploma in Information Technology\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\obj\Debug\netcoreapp3.1\Menu_At_A Restaurant.AssemblyInfo.cs
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Diploma in Information Technology\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\obj\Debug\netcoreapp3.1\Menu_At_A Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Diploma in Information Technology\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\obj\Debug\netcoreapp3.1\Menu_At_A Restaurant.dll
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Diploma in Information Technology\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\obj\Debug\netcoreapp3.1\Menu_At_A Restaurant.pdb
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Diploma in Information Technology\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\obj\Debug\netcoreapp3.1\Menu_At_A Restaurant.genruntimeconfig.cache

@@ -1,0 +1,28 @@
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\bin\Debug\netcoreapp3.1\Question_1.exe
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\bin\Debug\netcoreapp3.1\Question_1.deps.json
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\bin\Debug\netcoreapp3.1\Question_1.runtimeconfig.json
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\bin\Debug\netcoreapp3.1\Question_1.runtimeconfig.dev.json
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\bin\Debug\netcoreapp3.1\Question_1.dll
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\bin\Debug\netcoreapp3.1\Question_1.pdb
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\obj\Debug\netcoreapp3.1\Question_1.csproj.AssemblyReference.cache
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\obj\Debug\netcoreapp3.1\Question_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\obj\Debug\netcoreapp3.1\Question_1.AssemblyInfoInputs.cache
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\obj\Debug\netcoreapp3.1\Question_1.AssemblyInfo.cs
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\obj\Debug\netcoreapp3.1\Question_1.csproj.CoreCompileInputs.cache
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\obj\Debug\netcoreapp3.1\Question_1.dll
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\obj\Debug\netcoreapp3.1\Question_1.pdb
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\obj\Debug\netcoreapp3.1\Question_1.genruntimeconfig.cache
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Diploma of Information Technology\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\bin\Debug\netcoreapp3.1\Question_1.exe
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Diploma of Information Technology\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\bin\Debug\netcoreapp3.1\Question_1.deps.json
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Diploma of Information Technology\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\bin\Debug\netcoreapp3.1\Question_1.runtimeconfig.json
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Diploma of Information Technology\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\bin\Debug\netcoreapp3.1\Question_1.runtimeconfig.dev.json
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Diploma of Information Technology\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\bin\Debug\netcoreapp3.1\Question_1.dll
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Diploma of Information Technology\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\bin\Debug\netcoreapp3.1\Question_1.pdb
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Diploma of Information Technology\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\obj\Debug\netcoreapp3.1\Question_1.csproj.AssemblyReference.cache
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Diploma of Information Technology\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\obj\Debug\netcoreapp3.1\Question_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Diploma of Information Technology\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\obj\Debug\netcoreapp3.1\Question_1.AssemblyInfoInputs.cache
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Diploma of Information Technology\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\obj\Debug\netcoreapp3.1\Question_1.AssemblyInfo.cs
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Diploma of Information Technology\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\obj\Debug\netcoreapp3.1\Question_1.csproj.CoreCompileInputs.cache
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Diploma of Information Technology\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\obj\Debug\netcoreapp3.1\Question_1.dll
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Diploma of Information Technology\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\obj\Debug\netcoreapp3.1\Question_1.pdb
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Diploma of Information Technology\Assignments\PRG\152\Modiba_Donald_Project_2\Question_1\obj\Debug\netcoreapp3.1\Question_1.genruntimeconfig.cache
